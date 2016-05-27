@@ -6,3 +6,6 @@
 ```javascript
 l.r("foo");
 ```
+* 1
+* 2
+* 3

@@ -11,3 +11,7 @@ l.r("foo");
 * 3
 
 
+```javascript
+  var x = 1;
+  console.log(x + 2);
+```
